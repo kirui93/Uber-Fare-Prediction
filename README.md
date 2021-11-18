@@ -47,3 +47,8 @@ We will generate 2 models and make comparison.
 
 Random Forest Regression performs better than Linear Regression in this case and therefore we will be using the Random Forest Regression Model to make predictions on the test dataset provided.
 
+## Next Steps
+
+1. Hyperparameter tuning for Random Forest Regressor
+2. Feature selection.
+3. Use other algorithms
