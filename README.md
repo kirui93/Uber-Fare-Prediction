@@ -49,6 +49,10 @@ Random Forest Regression performs better than Linear Regression in this case and
 
 ## Next Steps
 
-1. Hyperparameter tuning for Random Forest Regressor
+1. Hyperparameter tuning for Random Forest Regressor.
 2. Feature selection.
-3. Use other algorithms
+3. Use other algorithms.
+4. GeoMap with Pickup and Dropoff locations categorically displayed.
+
+
+### Keep Tuned
